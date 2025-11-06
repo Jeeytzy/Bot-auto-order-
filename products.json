@@ -1,0 +1,44 @@
+[
+  {
+    "id": "PROD-1762347380725",
+    "name": "Ebook Sebuah Seni Untuk Bersikap bodo amat by Mark Manson",
+    "description": "Akses seumur hidup bisa di baca melalui hp maupun devic lain",
+    "price": 1000,
+    "stock": 99999,
+    "paymentMethod": "both",
+    "productData": {
+      "type": "text",
+      "content": "https://drive.google.com/file/d/1Dv9q3oiDqs1pGd5oWXM8yTHCLk369obh/view?usp=drivesdk"
+    },
+    "createdAt": "05/11/2025 19.56.20",
+    "createdBy": 7804463533
+  },
+  {
+    "id": "PROD-1762347769985",
+    "name": "64 tips dan trik persentasi - Public Speaking (Mastery in action) by Ongky hojanto",
+    "description": "Akses seumur hidup bisa di baca melalui hp maupun devic lain",
+    "price": 1000,
+    "stock": 99999,
+    "paymentMethod": "both",
+    "productData": {
+      "type": "text",
+      "content": "https://drive.google.com/file/d/1gHWnDRcRZdzoduQH0865UZ3RI3-Vip8J/view?usp=drivesdk"
+    },
+    "createdAt": "05/11/2025 20.02.49",
+    "createdBy": 7804463533
+  },
+  {
+    "id": "PROD-1762347945962",
+    "name": "Personal Branding - seni Membangun merek diri dengan teknik berbicara - by Farco siswiyanto raharjo",
+    "description": "Akses seumur hidup bisa di baca melalui hp maupun devic lain",
+    "price": 1000,
+    "stock": 99999,
+    "paymentMethod": "both",
+    "productData": {
+      "type": "text",
+      "content": "https://drive.google.com/file/d/1DmgbUBBt8Z7_6xZGg5YwmcBjYAuM7iqR/view?usp=drivesdk"
+    },
+    "createdAt": "05/11/2025 20.05.45",
+    "createdBy": 7804463533
+  }
+]

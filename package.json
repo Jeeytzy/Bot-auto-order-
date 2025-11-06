@@ -1,0 +1,29 @@
+{
+  "name": "telegram-bot-produk-digital",
+  "version": "1.0.0",
+  "description": "Telegram bot untuk jualan produk digital dengan payment QRIS otomatis dan manual",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "digital",
+    "products",
+    "qris",
+    "payment"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "axios": "^1.6.2",
+    "bottleneck": "^2.19.5",
+    "fs-extra": "^11.2.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "qrcode": "^1.5.3",
+    "winston": "^3.18.3"
+  }
+}
